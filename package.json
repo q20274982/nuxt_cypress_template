@@ -18,7 +18,11 @@
     "webpack": "^4.46.0"
   },
   "devDependencies": {
+    "@cypress/vue": "^2.2.3",
+    "@cypress/webpack-dev-server": "^1.8.0",
     "@nuxtjs/tailwindcss": "^4.2.1",
-    "postcss": "^8.4.4"
+    "cypress": "^9.2.0",
+    "postcss": "^8.4.4",
+    "webpack-dev-server": "^4.7.2"
   }
 }
